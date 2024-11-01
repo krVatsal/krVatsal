@@ -9,11 +9,13 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for web devel
 - 🖌️ Creating a **React canvas** application controlled by hand gestures using **MediaPipe**.
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** ![Next Js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- **Frontend:** 
+  - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) [React](https://reactjs.org/) | 
+  - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) [Next.js](https://nextjs.org/)
 - **Backend:** ![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 - **Authentication:** ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) | ![Passport.js](https://img.shields.io/badge/passport.js-8B4C39?style=flat&logo=passport&logoColor=white)
 - **Image Storage:** ![Cloudinary](https://img.shields.io/badge/Cloudinary-3F6DC2?style=flat&logo=cloudinary&logoColor=white)
-- **Gesture Control:** ![Mediapipe]
+- **Gesture Control:** ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF4D00?style=flat&logo=google&logoColor=white) [MediaPipe](https://mediapipe.dev/)
 
 ## 📚 Current Learning
 - Deep diving into **OCR, Deep Learning**, including getsure controls and computer vision.
