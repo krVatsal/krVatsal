@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for web devel
 ## 🌟 About Me
 I'm a tech enthusiast and developer passionate about solving problems through innovative solutions. With experience spanning full-stack development, machine learning, and microservice-based architectures, I enjoy building impactful projects that bring ideas to life.
 
-###🔧 What I Do:
+### 🔧 What I Do:
 
 - **Web and App Development**: From multi-page websites to highly interactive apps, I craft seamless user experiences with cutting-edge technologies like React, Next.js, and Node.js.
 - **Backend Expertise**: Skilled in designing robust APIs and backend systems using Express, MongoDB, Redis, and Passport.js for authentication.
