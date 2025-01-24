@@ -3,10 +3,13 @@
 Welcome to my GitHub profile! I'm a tech enthusiast with a passion for web development and Deep Learning. Currently, I'm working on exciting projects that leverage modern technologies. 
 
 ## 🌟 About Me
-- 🏗️ Building a **[hotel booking website](#)** for seamless accommodation experiences.
-- 🚕 Developing a **cab booking system** for local thekedars.
-- 🎓 Working on a **campus scavenger hunt web app** that enhances student engagement.
-- 🖌️ Creating a **React canvas** application controlled by hand gestures using **MediaPipe**.
+I'm a tech enthusiast and developer passionate about solving problems through innovative solutions. With experience spanning full-stack development, machine learning, and microservice-based architectures, I enjoy building impactful projects that bring ideas to life.
+
+###🔧 What I Do:
+
+- **Web and App Development**: From multi-page websites to highly interactive apps, I craft seamless user experiences with cutting-edge technologies like React, Next.js, and Node.js.
+- **Backend Expertise**: Skilled in designing robust APIs and backend systems using Express, MongoDB, Redis, and Passport.js for authentication.
+- **AI and Machine Learning**: Exploring predictive analytics and solutions, including Random Forest models for churn prediction and OCR-based text extraction using Keras.
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** 
