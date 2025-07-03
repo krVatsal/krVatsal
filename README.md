@@ -1,31 +1,84 @@
-# 👋 Hi there! I'm Vatsal Kumar
+# 👋 Hey there, I’m Vatsal Kumar
 
-Welcome to my GitHub profile! I'm a tech enthusiast with a passion for web development and Deep Learning. Currently, I'm working on exciting projects that leverage modern technologies. 
+Welcome to my GitHub! I'm a developer who writes more code than tweets (and that's saying something). I love building AI-powered products and web apps that *actually* work in production — not just in Jupyter Notebooks.
+
+---
 
 ## 🌟 About Me
-I'm a tech enthusiast and developer passionate about solving problems through innovative solutions. With experience spanning full-stack development, machine learning, and microservice-based architectures, I enjoy building impactful projects that bring ideas to life.
 
-### 🔧 What I Do:
+I'm a full-stack developer and AI tinkerer who enjoys turning caffeine and bugs into scalable apps and intelligent systems. With hands-on experience building funded startup tech from scratch, I focus on writing clean code, deploying fast, and occasionally pretending to enjoy debugging.
 
-- **Web and App Development**: From multi-page websites to highly interactive apps, I craft seamless user experiences with cutting-edge technologies like React, Next.js, and Node.js.
-- **Backend Expertise**: Skilled in designing robust APIs and backend systems using Express, MongoDB, Redis, and Passport.js for authentication.
-- **AI and Machine Learning**: Exploring predictive analytics and solutions, including Random Forest models for churn prediction and OCR-based text extraction using Keras.
+---
 
-## 🛠️ Technologies & Tools
-- **Frontend:** 
-  - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) [React](https://reactjs.org/) | 
-  - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) [Next.js](https://nextjs.org/)
-- **Backend:** ![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-- **Authentication:** ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) | ![Passport.js](https://img.shields.io/badge/passport.js-8B4C39?style=flat&logo=passport&logoColor=white)
-- **Image Storage:** ![Cloudinary](https://img.shields.io/badge/Cloudinary-3F6DC2?style=flat&logo=cloudinary&logoColor=white)
-- **Gesture Control:** ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF4D00?style=flat&logo=google&logoColor=white) [MediaPipe](https://mediapipe.dev/)
+## 🔧 What I Build
 
-## 📚 Current Learning
-- Deep diving into **OCR, Deep Learning**, including getsure controls and computer vision.
-- Exploring advanced features in **Next.js** for full-stack development without separate server files.
+- **Web & App Development**  
+  From slick landing pages to full-blown platforms — I use **React**, **Next.js**, and **Tailwind CSS** to make pixels behave.
 
-## 📫 Connect with Me
-Feel free to reach out or collaborate on any projects! You can find me on:
-- [LinkedIn](https://www.linkedin.com/in/vatsal-kumar-61492627b/)
+- **Backend Architectures**  
+  I speak **Node.js**, **Express**, and **MongoDB** fluently, and throw in **Redis**, **JWT**, and **Passport.js** when the security gods demand it.
 
-Thank you for visiting my profile! 🚀
+- **AI & Deep Learning Projects**  
+  I’ve built:  
+  - An OCR engine with **Keras**  
+  - A churn predictor with **Random Forests**  
+  - Pose and gesture recognition with **MediaPipe + BlazePose**  
+  - And AI tools that make demos look like magic (but with real code underneath)
+
+---
+
+## 🛠️ Tech Stack I Use & Abuse
+
+### 🖼️ Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🧠 AI/ML & CV
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF4D00?style=flat&logo=google&logoColor=white)  
+![BlazePose](https://img.shields.io/badge/BlazePose-black?style=flat&logo=google&logoColor=white)
+
+### 🔧 Backend / DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)  
+![Passport.js](https://img.shields.io/badge/Passport.js-8B4C39?style=flat&logo=passport&logoColor=white)
+
+### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### ☁️ Hosting / Cloud / CI
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)  
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3F6DC2?style=flat&logo=cloudinary&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+## 🔍 Currently Exploring
+
+- Gesture & pose-controlled interfaces (Think: low-budget Jarvis)
+- Scaling deep learning inference on edge devices
+- Next.js API routes for full-stack builds without extra backend baggage
+
+---
+
+## 📬 Let’s Connect
+
+Want to collaborate, brainstorm, or just send over cool AI memes?
+
+- [LinkedIn →](https://www.linkedin.com/in/vatsal-kumar-61492627b/)
