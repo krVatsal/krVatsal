@@ -27,6 +27,7 @@ I'm a full-stack developer and AI tinkerer who enjoys turning caffeine and bugs 
 
 ---
 
+
 ## 🛠️ Tech Stack I Use & Abuse
 
 ### 🖼️ Frontend
@@ -45,7 +46,12 @@ I'm a full-stack developer and AI tinkerer who enjoys turning caffeine and bugs 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF4D00?style=flat&logo=google&logoColor=white)  
-![BlazePose](https://img.shields.io/badge/BlazePose-black?style=flat&logo=google&logoColor=white)
+![BlazePose](https://img.shields.io/badge/BlazePose-black?style=flat&logo=google&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)  
+![LangGraph](https://img.shields.io/badge/LangGraph-003EFF?style=flat&logo=langgraph&logoColor=white)  
+![ANN](https://img.shields.io/badge/ANN-FF6F00?style=flat&logo=neural-network&logoColor=white)  
+![CNN](https://img.shields.io/badge/CNN-FF7043?style=flat&logo=neural-network&logoColor=white)  
+![LSTM](https://img.shields.io/badge/LSTM-AB47BC?style=flat&logo=neural-network&logoColor=white)
 
 ### 🔧 Backend / DevOps
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
@@ -57,10 +63,11 @@ I'm a full-stack developer and AI tinkerer who enjoys turning caffeine and bugs 
 
 ### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### ☁️ Hosting / Cloud / CI
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)  
@@ -72,8 +79,9 @@ I'm a full-stack developer and AI tinkerer who enjoys turning caffeine and bugs 
 ## 🔍 Currently Exploring
 
 - Gesture & pose-controlled interfaces (Think: low-budget Jarvis)
+- LangGraph pipelines for stateful AI agents
 - Scaling deep learning inference on edge devices
-- Next.js API routes for full-stack builds without extra backend baggage
+- Building LLM-powered UX with serverless APIs & vector stores
 
 ---
 
