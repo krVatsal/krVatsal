@@ -90,3 +90,4 @@ I'm a full-stack developer and AI tinkerer who enjoys turning caffeine and bugs 
 Want to collaborate, brainstorm, or just send over cool AI memes?
 
 - [LinkedIn →](https://www.linkedin.com/in/vatsal-kumar-61492627b/)
+- [X →](https://x.com/vatsal_mr56220/)
